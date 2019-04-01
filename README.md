@@ -1,3 +1,3 @@
-## React App Chat Box
+# React App Chat Box
 
-# Chat Box built using React and pytho/rails/node.
+### Chat Box built using React and python/rails/node.
